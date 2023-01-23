@@ -1,0 +1,24 @@
+.header-section {
+  background-color: rgb(7, 89, 7);
+  padding: 40px;
+}
+
+.header-hero {
+  font-size: 1rem;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.hero-col {
+  color: white;
+  width: 55%;
+}
+
+.header-hero h3 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+.header-hero p {
+  font-size: 1.2em;
+}
